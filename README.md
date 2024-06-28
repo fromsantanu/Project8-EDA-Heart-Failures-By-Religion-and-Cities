@@ -47,6 +47,33 @@ The programs are written on jupiter notebook, You may run the program on Google 
 
 ![Program Output](output.png)
 
+**This program generates two pie charts side by side to visualize the distribution of heart failure deaths in India by religion and by city. Here's what can be learned from the output:**
+
+- **Deaths by Religion:**
+
+  - The first pie chart shows the proportion of heart failure deaths among different religious groups in India. Each slice represents a religious group, and the size of the slice indicates the percentage of total deaths attributed to that group.
+  - This helps in understanding which religious groups are more affected by heart failure deaths and whether there are significant differences between groups.
+
+- **Deaths by City:**
+
+  - The second pie chart displays the distribution of heart failure deaths across different cities in India. Each slice represents a city, and the size of the slice indicates the percentage of total deaths in that city.
+  - This visualization helps identify which cities have higher or lower proportions of heart failure deaths, providing insights into geographical disparities in heart failure mortality.
+
+- **Proportional Comparison:**
+
+  - Both pie charts use percentages to provide a clear and immediate understanding of the relative proportions. This makes it easy to compare the impact of heart failure deaths across different religions and cities.
+
+- **Targeted Insights:**
+
+  - Public health officials and policymakers can use these insights to tailor interventions and allocate resources more effectively. For example, if a particular religious group or city shows a disproportionately high percentage of heart failure deaths, targeted health campaigns or medical resources can be directed there.
+
+- **Overall Distribution:**
+
+  - The pie charts give an overall picture of how heart failure deaths are distributed among religious groups and cities, highlighting potential areas for further investigation or intervention.
+
+In summary, the output of this program provides a clear and visual representation of the distribution of heart failure deaths by religion and city in India, offering valuable insights for public health planning and intervention.
+
+
 ## Contribution
 
 The programs are written by Santanu Karmakar
